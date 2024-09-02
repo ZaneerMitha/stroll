@@ -10,7 +10,7 @@ The premise of the app is each day a notification is sent out and a new location
 
 ## 💻 Technologies
 
-Stroll is an iOS application that is written completely in Swift, and programmed in Xcode. The application uses a Model, View, Controller (MVC) system, and the interface is based in SwiftUI. All user and location data is stored in Google Cloud Firestore and Firebase. The "Map" section of the application is populated using Apple MapKit.
+Stroll is an iOS application that is written completely in Swift and programmed in Xcode. The application uses a Model, View, Controller (MVC) system, and the interface is based in SwiftUI. All user and location data is stored in Google Cloud Firestore and Firebase. The "Map" section of the application is populated using Apple MapKit.
 
 TL;DR:
 
