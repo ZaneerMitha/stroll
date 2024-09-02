@@ -1,8 +1,6 @@
-# 💬 Stroll Overview
+# 🚶‍♂️‍➡️ Stroll Overview
 
-## Stroll Demo Video
-
-
+## [Stroll Demo Video](https://drive.google.com/file/d/1NkjuWIJsOPg1Rve16QlfVQGvCWkDB__F/view)
 
 ## ℹ️ What is it?
 
