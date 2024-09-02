@@ -6,7 +6,7 @@
 
 People love to get out and explore new places, but often they struggle with finding where to go or they struggle to have the motivation to leave the house. This app gives people a new place to go everyday and consistently challenges them to take a stroll!
 
-The premise of the app is each day a notification is sent out and a new location is available on the app. These locations will be places like farmers markets, green space, monuments, etc. If you complete the stroll, you get a streak/points and then you can compete against your friends. In the future, it could even involve trading the points in for free coffee at one of the locations or something similar, but it would just be competing against friends and having a new cool place to visit every day in the beginning. Additionally, the app will only be available for Boston and NYC users to start.
+The premise of the app is each day a notification is sent out and a new location is available on the app. These locations are be places like farmers markets, green space, monuments, etc. If you complete the stroll, you get a streak/points and then you can compete against your friends. In the future, it could even involve trading the points in for free coffee at one of the locations or something similar, but it would just be competing against friends and having a new cool place to visit every day in the beginning. Additionally, the app is only be available for Boston and NYC users to start.
 
 ## 💻 Technologies
 
