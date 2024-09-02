@@ -22,7 +22,7 @@ TL;DR:
 - Apple MapKit
 
 ## 📸 Stroll Photos
-<img width="226" margin=0 alt="Screenshot 2024-09-02 at 4 09 24 AM" src="https://github.com/user-attachments/assets/5de22f30-62d3-4cf2-8c89-13e0aaa885dd">
+<img width="226" alt="Screenshot 2024-09-02 at 4 09 24 AM" src="https://github.com/user-attachments/assets/5de22f30-62d3-4cf2-8c89-13e0aaa885dd">
 <img width="226" alt="Screenshot 2024-09-02 at 4 09 12 AM" src="https://github.com/user-attachments/assets/586bf52b-0811-4270-818f-9fc934525649">
 <img width="226" alt="Screenshot 2024-09-02 at 4 09 00 AM" src="https://github.com/user-attachments/assets/c1931206-b0d5-48ff-bcbe-168317833318">
 <img width="226" alt="Screenshot 2024-09-02 at 4 08 52 AM" src="https://github.com/user-attachments/assets/19633cd3-ca7e-4640-aafb-95af93103827">
